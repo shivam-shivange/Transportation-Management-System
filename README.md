@@ -53,8 +53,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ## V. Project Flowchart
 
-*(Insert flowchart diagram here if available)*
-
+![flowchart](image.png)
 ---
 
 ## VI. Web Page Overview
@@ -71,6 +70,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 - Update delivery status
 - View order history
 
+![dashboard](image-1.png)
 ---
 
 ## VII. Implementation Details
