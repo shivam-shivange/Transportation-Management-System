@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7fafc; /* Equivalent to Tailwind's bg-gray-100 */
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #edf2f7; /* Equivalent to Tailwind's bg-gray-200 */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #a0aec0; /* Equivalent to Tailwind's bg-gray-400 */
+  border-radius: 0.375rem; /* Equivalent to Tailwind's rounded-md */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #718096; /* Equivalent to Tailwind's bg-gray-500 */
+}
