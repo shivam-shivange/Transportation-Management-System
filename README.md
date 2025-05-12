@@ -114,11 +114,31 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 ## IX. Discussion
 
 ### Key Achievements:
-- Intuitive UI for admins and drivers
-- Real-time delivery visibility
-- Secure role-based operations
+One of the major accomplishments of this project is the development of an intuitive and visually
+appealing user interface. The design ensures that both admins and drivers can quickly learn and
+navigate the system with minimal training, which is crucial in real-world logistics environments.
+The integration of real-time status updates has significantly improved operational visibility,
+allowing managers to instantly view the current state of shipments—whether pending, out for
+delivery, or completed. This level of transparency supports faster decision-making and better
+coordination across the organization. Additionally, implementing a role-based access system has
+enhanced the platform’s overall security and usability by restricting functions based on user
+roles, thus ensuring that sensitive operations like adding/removing workers or modifying order
+details remain limited to admin access.
+
 
 ### Challenges:
+Throughout the development process, several technical challenges emerged. One of the more
+significant issues was managing complex application state in React, especially when handling
+dynamic form inputs for order creation and updates. Ensuring that data remained consistent
+across components required careful planning and the use of context and state management tools.
+On the backend, optimizing MySQL database connection pooling posed performance hurdles,
+particularly during high-load operations. Ensuring that the server handled multiple simultaneous
+requests efficiently without dropping connections or slowing down required the right
+configuration and use of connection pooling libraries. Furthermore, designing a responsive UI
+that worked seamlessly across various screen sizes and devices added an additional layer of
+complexity. Balancing aesthetics with functionality, especially for nested dashboard layouts,
+required continuous testing and CSS refinements.
+
 - React state management complexity
 - MySQL connection pooling under load
 - Responsive dashboard design
