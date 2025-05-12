@@ -125,7 +125,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ---
 
-### Starting the Project
+## VIII. Starting the Project
 
 1. Connect the MySQL database by executing the SQL script located at `./transtrack/db.sql` using MySQL Workbench (or any MySQL client).
 
@@ -151,7 +151,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ---
 
-## VIII. Result Analysis
+## IX. Result Analysis
 
 - Role-based routing and permissions are functioning as intended.
 - Real-time delivery updates are reflected immediately.
@@ -162,7 +162,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ---
 
-## IX. Discussion
+## X. Discussion
 
 ### Key Achievements:
 One of the major accomplishments of this project is the development of an intuitive and visually
@@ -202,7 +202,7 @@ required continuous testing and CSS refinements.
 
 ---
 
-## X. Conclusion
+## XI. Conclusion
 
 **TransTrack** TransTrack provides a comprehensive solution for transportation businesses to manage their
 goods and packages efficiently. The system's role-based architecture, intuitive interface, and
@@ -215,7 +215,7 @@ positive user experience.
 
 ---
 
-## XI. Reference Apps
+## XII. Reference Apps
 
 1. ShipStation – Package management
 2. ShipBob – Logistics platform
