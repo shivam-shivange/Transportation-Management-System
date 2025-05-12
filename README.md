@@ -71,6 +71,24 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 - View order history
 
 ![dashboard](image-1.png)
+
+### Order Management for Owner
+![admin order management](image-2.png)
+
+### Creating New Order
+![create order](image-3.png)
+
+### Updating Order
+![update order](image-4.png)
+
+### Order History
+![order history](image-5.png)
+
+### Add New Worker
+![add worker](image-6.png)
+
+### Efficient Searching
+![search](image-7.png)
 ---
 
 ## VII. Implementation Details
