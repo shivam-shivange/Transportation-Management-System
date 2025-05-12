@@ -114,7 +114,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
   - Package management
   - Worker management
 - Context API for state management
-- Responsive design via CSS modules
+- Responsive design via CSS modules (tailwind)
 - Axios for secure API communication
 
 ---
