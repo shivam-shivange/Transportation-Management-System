@@ -53,7 +53,7 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ## V. Project Flowchart
 
-![flowchart](image.png)
+![flowchart](./transtrack/images_src/image.png)
 ---
 
 ## VI. Web Page Overview
@@ -70,25 +70,26 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 - Update delivery status
 - View order history
 
-![dashboard](image-1.png)
+![dashboard](./transtrack/images_src/image-1.png)
 
 ### Order Management for Owner
-![admin order management](image-2.png)
+![admin order management](./transtrack/images_src/image-2.png)
 
 ### Creating New Order
-![create order](image-3.png)
+![create order](./transtrack/images_src/image-3.png)
 
 ### Updating Order
-![update order](image-4.png)
+![update order](./transtrack/images_src/image-4.png)
 
 ### Order History
-![order history](image-5.png)
+![order history](./transtrack/images_src/image-5.png)
 
 ### Add New Worker
-![add worker](image-6.png)
+![add worker](./transtrack/images_src/image-6.png)
 
 ### Efficient Searching
-![search](image-7.png)
+![search](./transtrack/images_src/image-7.png)
+
 ---
 
 ## VII. Implementation Details
