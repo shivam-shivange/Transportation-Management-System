@@ -121,18 +121,22 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ### Starting the Project
 
-1. Open two terminal windows.
+1. Connect the MySQL database by executing the SQL script located at `./transtrack/db.sql` using MySQL Workbench (or any MySQL client).
 
-2. In the **first terminal**, run the following commands:
+2. Open two terminal windows.
+
+3. In the **first terminal**, navigate to the `./transtrack/` folder and run the frontend:
 
    ```bash
    cd frontend
+   npm install
    npm run dev
 
-3. In the **second terminal**, run the following commands:
+4. In the **second terminal**, navigate to the `./transtrack/` folder and run the backend:
 
     ```bash
     cd backend
+    npm install
     npm start
 
 ---
