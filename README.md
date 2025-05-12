@@ -84,8 +84,14 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 ### Order History
 ![order history](./transtrack/images_src/image-5.png)
 
+### Manage Workers
+![alt text](./transtrack/images_src/image-8.png)
+
 ### Add New Worker
 ![add worker](./transtrack/images_src/image-6.png)
+
+### Remove Worker
+![alt text](./transtrack/images_src/image-9.png)
 
 ### Efficient Searching
 ![search](./transtrack/images_src/image-7.png)
