@@ -139,9 +139,9 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
     npm install
     npm start
 
-5. open the web page using provided link or at 
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: http://192.168.132.84:5173/
+5. Open the web page using provided link or at 
+    ➜  Local:   http://localhost:5173/
+    ➜  Network: http://192.168.132.84:5173/
 
 ---
 
