@@ -119,6 +119,24 @@ This modular and scalable setup allows future extensions like GPS, mobile app, a
 
 ---
 
+### Starting the Project
+
+1. Open two terminal windows.
+
+2. In the **first terminal**, run the following commands:
+
+   ```bash
+   cd frontend
+   npm run dev
+
+3. In the **second terminal**, run the following commands:
+
+    ```bash
+    cd backend
+    npm start
+
+---
+
 ## VIII. Result Analysis
 
 - Role-based routing and permissions are functioning as intended.
